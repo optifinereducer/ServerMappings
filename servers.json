@@ -1648,5 +1648,12 @@
 	"addresses": [
 	    "zyro.gg"
 	]
+    },
+    {
+	"id": "aikar",
+	"name": "Aikar Network",
+	"addresses": [
+	    "aikar.cc"
+	]
     }
 ]
